@@ -1,6 +1,6 @@
 # 3D---
 麻將房間
-
+```csharp
 using UnityEngine;
 
 public class MahjongRoomCreator : MonoBehaviour
