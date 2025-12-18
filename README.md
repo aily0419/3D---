@@ -1,5 +1,6 @@
 # 3D---
 麻將房間
+
 using UnityEngine;
 
 public class MahjongRoomCreator : MonoBehaviour
@@ -8,7 +9,6 @@ public class MahjongRoomCreator : MonoBehaviour
     public float roomWidth = 10f;  // 房間寬度
     public float roomHeight = 5f;  // 房間高度
     public float roomDepth = 10f;  // 房間深度
-
     [Header("材質設定 (可選)")]
     public Material wallMaterial;  // 牆壁材質
     public Material floorMaterial; // 地板材質
